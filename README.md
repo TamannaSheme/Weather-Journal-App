@@ -2,11 +2,6 @@
 
 A simple and elegant weather web application built using **HTML**, **CSS**, and **JavaScript** that allows users to search for any city and view current weather conditions and a multi-day forecast.
 
-## 📸 Demo
-
-![Weather App Demo](assets/demo/demo.png) *(Replace this with an actual screenshot path)*
-
----
 
 ## 🚀 Features
 
